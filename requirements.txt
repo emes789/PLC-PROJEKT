@@ -1,0 +1,5 @@
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Instalacja (Python 3.14 na Windows przez uv):
+# python3.14 -m pip install -r requirements.txt --break-system-packages
